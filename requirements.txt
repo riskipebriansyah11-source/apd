@@ -1,15 +1,6 @@
-# Library Utama
 streamlit
-watchdog
-
-# Computer Vision (Wajib Headless)
-opencv-python-headless
 ultralytics
-
-# Data & DL (Biarkan server memilih versi yang cocok dengan Python 3.14)
+opencv-python-headless
+pillow
 numpy
 pandas
-matplotlib
-pillow
-torch
-torchvision
