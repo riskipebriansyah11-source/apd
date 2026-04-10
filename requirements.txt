@@ -1,23 +1,15 @@
-# Library Utama Dashboard
-streamlit==1.56.0
-watchdog==6.0.0
+# Library Utama
+streamlit
+watchdog
 
 # Computer Vision (Wajib Headless)
-opencv-python-headless==4.13.0.92
-ultralytics==8.4.36
-ultralytics-thop==2.0.18
+opencv-python-headless
+ultralytics
 
-# Data & Grafik
-numpy==2.4.4
-pandas==3.0.2
-matplotlib==3.10.8
-pillow==12.2.0
-
-# Deep Learning (Versi CPU-Safe untuk Cloud)
-torch==2.5.1
-torchvision==0.20.1
-
-# Utility
-requests==2.33.1
-PyYAML==6.0.3
-python-dateutil==2.9.0.post0
+# Data & DL (Biarkan server memilih versi yang cocok dengan Python 3.14)
+numpy
+pandas
+matplotlib
+pillow
+torch
+torchvision
